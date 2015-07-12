@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "outDir": "./src/js"
+    },
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./src/app/app.ts",
+        "./typings/angularjs/angular.d.ts",
+        "./typings/jquery/jquery.d.ts",
+        "./typings/tsd.d.ts"
+    ]
+}

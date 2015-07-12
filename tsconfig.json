@@ -14,8 +14,8 @@
     ],
     "files": [
         "./src/app/app.ts",
-        "./typings/angularjs/angular.d.ts",
-        "./typings/jquery/jquery.d.ts",
-        "./typings/tsd.d.ts"
+        "./src/typings/angularjs/angular.d.ts",
+        "./src/typings/jquery/jquery.d.ts",
+        "./src/typings/tsd.d.ts"
     ]
 }

@@ -1,5 +1,5 @@
-build.path.exportedFolder=
+build.path.exportedFolder=src
 build.path.sourceFolder=src
 compiler.outputDirOption=out
-compiler.outputFileOption=
+compiler.outputFileOption=test.js
 eclipse.preferences.version=1

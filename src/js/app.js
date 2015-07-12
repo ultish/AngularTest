@@ -1,4 +1,3 @@
-/// <reference path='../../typings/tsd.d.ts' />
 var test;
 (function (test) {
     var Test = (function () {
@@ -9,7 +8,7 @@ var test;
             console.log("Test: " + msg);
         };
         Test.prototype.test = function () {
-            this.debug("1234");
+            this.debug("12344676");
             if (true) {
                 this.debug("hello");
             }

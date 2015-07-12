@@ -1,4 +1,3 @@
-/// <reference path='../../typings/tsd.d.ts' />
 
 module test {
    export class Test {
@@ -9,8 +8,8 @@ module test {
          console.log("Test: " + msg);
       }
 
-      public test(): void {
-         this.debug("1234");
+      public test(): void { 
+         this.debug("12344676");
          if (true) {
             this.debug("hello");
          }
